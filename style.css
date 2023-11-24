@@ -1,0 +1,137 @@
+*{
+    font-family: Lato;
+}
+body{
+    margin: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-bottom: 175px;
+}
+
+.header-title{
+color: #272727;
+font-size: 60px;
+font-weight: 800;
+width: 708px;
+margin-right: 97px;
+}
+.header-info{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+width: 634px;
+margin: 32px 0;
+}
+.btn-primary{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #E55473;
+    border-radius: 8px;
+    padding: 20px 43px;
+    border: none;
+}
+header > img{
+width: 635px;
+height: 800px;
+margin-top: 50px;
+}
+/* featuredflowersstyles */
+.featured-flowers-title{
+    text-align: center;
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.featured-flowers-intro{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.flowers{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 128px;
+}
+.flower-profile img{
+    border-radius: 300px 300px 0px 0px;
+    margin-bottom: 32px;
+}
+.flower-profile a{
+    display: block;
+    text-align: center;
+    color: #272727;
+font-size: 24px;
+font-weight: 700;
+}
+.bg6{
+    padding: 110px 78px 0px 78px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.bg5{
+    padding: 117px 47px 51px 47px;
+    background: rgba(5, 151, 160, 0.15);
+    margin: 0 24px;
+}
+.bg7{
+    padding: 67px 75px 0 75px;
+background: rgba(71, 125, 17, 0.15);
+}
+/* services styles */
+.our-services{
+display: flex;
+justify-content: space-evenly;
+margin-right: auto;
+margin-left: auto;
+align-items: center;
+margin: auto;
+max-width:1440px;
+height: 320px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+text-align: center;
+}
+.service-info {
+display: block;
+}
+
+/* deals styles */
+.hot-deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 128px 0;
+    height: 620px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.deal-details{
+    text-align: center;
+    margin-right: 186px;
+   
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+.deal-info{
+    max-width: 594px;
+    margin: auto;
+    margin-bottom: 52px;
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+/* IG SECTION STYLES */
+
+
